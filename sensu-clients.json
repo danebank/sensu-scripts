@@ -35,8 +35,8 @@
       "address": "192.168.1.54",
       "subscription": "switches"
     },
-    "dem-02-2930": {
-      "hostname": "dem-02-2930",
+    "dem-02-2920": {
+      "hostname": "dem-02-2920",
       "address": "192.168.1.55",
       "subscription": "switches"
     },
@@ -90,8 +90,8 @@
       "address": "192.168.1.32",
       "subscription": "switches"
     },
-    "l17-05-2910": {
-      "hostname": "l17-05-2910",
+    "l17-05-2920": {
+      "hostname": "l17-05-2920",
       "address": "192.168.1.52",
       "subscription": "switches"
     },
@@ -121,7 +121,7 @@
       "subscription": "switches"
     },
     "pac-02-2824": {
-      "hostname": "pac-02-28240",
+      "hostname": "pac-02-2824",
       "address": "192.168.1.38",
       "subscription": "switches"
     },
