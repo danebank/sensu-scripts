@@ -5,6 +5,7 @@
 #
 # James Davis - 7/3/2018
 require 'json'
+require 'fileutils'
 
 # global variables
 $saveDirectory = '/etc/sensu/conf.d/switches/'
@@ -48,6 +49,9 @@ def printSensuMetric(hostname, address, subscription)
 end
 
 # main program
+FileUtils.rm_rf($saveDirectory)
+FileUtils.mkdir_p($saveDirectory)
+
 file = File.read('sensu-clients.json')
 clients_hash = JSON.parse(file)
 
