@@ -1,0 +1,170 @@
+{
+  "clients": {
+    "admin-01-2524": {
+      "hostname": "admin-01-2524",
+      "address": "192.168.1.13",
+      "subscription": "switches"
+    },
+    "admin-02-2610": {
+      "hostname": "admin-02-2610",
+      "address": "192.168.1.35",
+      "subscription": "switches"
+    },
+    "aqu-01-2930": {
+      "hostname": "aqu-01-2930",
+      "address": "192.168.1.56",
+      "subscription": "switches"
+    },
+    "core-01-5412": {
+      "hostname": "core-01-5412",
+      "address": "10.0.20.20",
+      "subscription": "switches"
+    },
+    "cott-01-2920": {
+      "hostname": "cott-01-2920",
+      "address": "192.168.1.50",
+      "subscription": "switches"
+    },
+    "cott-02-2920": {
+      "hostname": "cott-02-2920",
+      "address": "192.168.1.53",
+      "subscription": "switches"
+    },
+    "dem-01-2930": {
+      "hostname": "dem-01-2930",
+      "address": "192.168.1.54",
+      "subscription": "switches"
+    },
+    "dem-02-2930": {
+      "hostname": "dem-02-2930",
+      "address": "192.168.1.55",
+      "subscription": "switches"
+    },
+    "gym-01-2824": {
+      "hostname": "gym-01-2824",
+      "address": "192.168.1.30",
+      "subscription": "switches"
+    },
+    "jnr-01-2910": {
+      "hostname": "jnr-01-2910",
+      "address": "192.168.1.46",
+      "subscription": "switches"
+    },
+    "jnr1-01-2930": {
+      "hostname": "jnr1-01-2930",
+      "address": "192.168.1.19",
+      "subscription": "switches"
+    },
+    "jnr1-02-2930": {
+      "hostname": "jnr1-02-2930",
+      "address": "192.168.1.20",
+      "subscription": "switches"
+    },
+    "jnr1-03-2930": {
+      "hostname": "jnr1-03-2930",
+      "address": "192.168.1.21",
+      "subscription": "switches"
+    },
+    "jnr1-04-2930": {
+      "hostname": "jnr1-04-2930",
+      "address": "192.168.1.22",
+      "subscription": "switches"
+    },
+    "jnr1-05-2930": {
+      "hostname": "jnr1-05-2930",
+      "address": "192.168.1.23",
+      "subscription": "switches"
+    },
+    "l17-01-2920": {
+      "hostname": "l17-01-2920",
+      "address": "192.168.1.18",
+      "subscription": "switches"
+    },
+    "l17-03-2610": {
+      "hostname": "l17-03-2610",
+      "address": "192.168.1.32",
+      "subscription": "switches"
+    },
+    "l17-04-2610": {
+      "hostname": "l17-04-2610",
+      "address": "192.168.1.32",
+      "subscription": "switches"
+    },
+    "l17-05-2910": {
+      "hostname": "l17-05-2910",
+      "address": "192.168.1.52",
+      "subscription": "switches"
+    },
+    "lib-01-2920": {
+      "hostname": "lib-01-2920",
+      "address": "192.168.1.12",
+      "subscription": "switches"
+    },
+    "lib-04-2920": {
+      "hostname": "lib-04-2920",
+      "address": "192.168.1.42",
+      "subscription": "switches"
+    },
+    "lib-06-2920": {
+      "hostname": "lib-06-2920",
+      "address": "192.168.1.49",
+      "subscription": "switches"
+    },
+    "lib-07-2920": {
+      "hostname": "lib-07-2920",
+      "address": "192.168.1.51",
+      "subscription": "switches"
+    },
+    "pac-01-2610": {
+      "hostname": "pac-01-2610",
+      "address": "192.168.1.37",
+      "subscription": "switches"
+    },
+    "pac-02-2824": {
+      "hostname": "pac-02-28240",
+      "address": "192.168.1.38",
+      "subscription": "switches"
+    },
+    "pac-03-2910": {
+      "hostname": "pac-03-2910",
+      "address": "192.168.1.44",
+      "subscription": "switches"
+    },
+    "q13-02-2930": {
+      "hostname": "q13-02-2930",
+      "address": "192.168.1.17",
+      "subscription": "switches"
+    },
+    "q23-01-2510": {
+      "hostname": "q23-01-2510",
+      "address": "192.168.1.24",
+      "subscription": "switches"
+    },
+    "q23-02-2920": {
+      "hostname": "q23-02-2920",
+      "address": "192.168.1.25",
+      "subscription": "switches"
+    },
+    "q23-05-2610": {
+      "hostname": "q23-05-2610",
+      "address": "192.168.1.34",
+      "subscription": "switches"
+    },
+    "q23-06-2910": {
+      "hostname": "q23-06-2910",
+      "address": "192.168.1.43",
+      "subscription": "switches"
+    },
+    "q23-07-2910": {
+      "hostname": "q23-07-2910",
+      "address": "192.168.1.47",
+      "subscription": "switches"
+    },
+    "san-01-2810": {
+      "hostname": "san-01-2810",
+      "address": "192.168.1.24",
+      "subscription": "switches"
+    }
+  }
+}
+
