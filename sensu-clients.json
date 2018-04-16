@@ -75,6 +75,11 @@
       "address": "192.168.1.23",
       "subscription": "switches"
     },
+    "jnr1-06-2930": {
+      "hostname": "jnr1-06-2930",
+      "address": "192.168.1.26",
+      "subscription": "switches"
+    },
     "l17-01-2920": {
       "hostname": "l17-01-2920",
       "address": "192.168.1.18",
